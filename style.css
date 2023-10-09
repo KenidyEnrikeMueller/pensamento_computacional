@@ -49,6 +49,15 @@ nav li{
     }
 }
 
+nav a:hover{
+    transition: 0.2s;
+    color: black;
+    
+}
+
+
+
+
 body{
     background-color:#f0f0f0;
 
