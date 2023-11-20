@@ -51,6 +51,43 @@ nav li{
     }
 }
 
+#banner{
+    width: 120px;
+    height: auto;
+}
+
+#utensilios{
+width: 220px;
+height: 220px;
+float: left;
+margin: auto 15px 15px auto;
+border:1px sólid #473e3b
+}
+
+#utensilios:hover{
+    transition: 0.5s;
+    box-shadow: 3px 3px 2px #473e3b;
+}
+
+.localizacao{
+margin-bottom: 3rem o;
+}
+
+.localizacao p{
+    margin-bottom: 2rem;
+    text-align: center;
+}
+
+.mapa{
+    width: 900px;
+    margin: 0 auto;
+}
+
+.beneficios
+
+
+
+
 nav a:hover{
     transition: 0.2s;
     color: black;
@@ -92,7 +129,7 @@ footer{
     background-image: url(bg.jpg);
     padding: 15px 0px;
 }
-
+´
 .redes a {
     margin: 0 10px;
     text-decoration: none;
@@ -107,5 +144,4 @@ footer{
 .copyright{
     font-size: 13px;
     color: aliceblue;
-    margin-top:15px;
 }
